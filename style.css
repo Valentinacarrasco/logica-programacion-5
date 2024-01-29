@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(186, 245, 242) !important; 
+}
+
+h1{
+    text-align: center;
+    font-size: 100px !important;
+    font-family: "Moirai One", system-ui;
+}
+
+h2{
+    text-align: center;
+    font-family:  "Lobster", sans-serif;
+}
+
+.container-fluid{
+    text-align: center;
+
+}
+
+.alert{
+    text-align: center;
+}
+
+.moirai-one-regular {
+    font-family: "Moirai One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#guessResults{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
